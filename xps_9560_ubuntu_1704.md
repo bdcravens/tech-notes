@@ -1,0 +1,1 @@
+* using another machine, create bootable USB from Ubuntu 17.04 ISO (used Etcher)
